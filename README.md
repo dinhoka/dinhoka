@@ -7,6 +7,7 @@
 
 ### Sobre mim:
 
+🐱‍🏍 Sou apaixonada pela area da tecnologia, pois é desafiadora, como um jogo. Tudo que eu aprendo, é como uma nova fase alcançada. A felicidade é a mesma .
 
 👨🏼‍🏫Estudante do 5º Semestre em Analise de desenvolvimento de Sistemas;
 
