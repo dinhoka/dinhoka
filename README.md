@@ -12,7 +12,7 @@
 
 ✍🏼 Procurando aprender o máximo que posso, para entrar na área da TI;
 
-💬 email {Dinhoka.teste@gmail.com};
+💬 email {Dinhasp1@gmail.com};
 
 🚀 conhecimento básico {JAVA,MYSQL,HTML,CSS};
 
