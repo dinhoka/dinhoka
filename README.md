@@ -8,7 +8,7 @@
 
 🐱‍🏍 Sou apaixonada pela area da tecnologia, pois é desafiadora, como um jogo. Tudo que eu aprendo, é como uma nova fase alcançada. A felicidade é a mesma .
 
-👨🏼‍🏫Estudante do 6º Semestre em Analise de desenvolvimento de Sistemas;
+👨🏼‍🏫Graduada em  Analise de desenvolvimento de Sistemas;
 
 ✍🏼 Procurando aprender o máximo que posso, para entrar na área da TI;
 
