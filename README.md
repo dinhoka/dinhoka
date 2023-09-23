@@ -14,6 +14,6 @@
 
 💬 email {Dinhasp1@gmail.com};
 
-🚀 conhecimento básico {JAVA,MYSQL,HTML,CSS};
+🚀 conhecimento básico {PYTHON,JAVA,MYSQL,HTML,CSS};
 
 🏡 Osasco-SP;
