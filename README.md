@@ -1,19 +1,76 @@
-# Olá, Sou Amanda!👩‍💻 👋
+<div align="center">
+  <h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Tudo bem?!+👋;Sou+Amanda Amaral...;">
+  </a>
+</h2>
+</div>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dinhoka)](https://github.com/dinhoka)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/amandacarolinaamaral/)](https://www.linkedin.com/in/amandacarolinaamaral/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dinhoka)](https://twitter.com/dinhoka)
 
-### Sobre mim:
 
-🐱‍🏍 Sou apaixonada pela area da tecnologia, pois é desafiadora, como um jogo. Tudo que eu aprendo, é como uma nova fase alcançada. A felicidade é a mesma .
+<div align="center">
+  <div align="center">
+  <a href="https://github.com/formandodev">
+    <img height="280em" src="https://github-readme-stats.vercel.app/api?username=dinhoka&show_icons=true&theme=radical"/>
+    </div>
 
-👨🏼‍🏫Graduada em  Analise de desenvolvimento de Sistemas;
+  <div align="center">
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhoka&layout=donut&theme=radical"/>
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhoka&hide=javascript,html&theme=radical"/>
+</div>
 
-✍🏼 Procurando aprender o máximo que posso, para entrar na área da TI;
 
-💬 email {Dinhasp1@gmail.com};
 
-🚀 conhecimento básico {PYTHON,JAVA,MYSQL,HTML,CSS};
 
-🏡 Osasco-SP;
+
+        
+<br>
+    
+
+
+<div style="display: inline_block"><br>
+     <img align="center"  title="SQL"  height="50"  src="imgs/iconeSQL.jpg">
+     <img align="center"  title="Java" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+     <img align="center"  title="TypeScript" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+     <img align="center"  title="JavaScript" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+     <img align="center"  title="HTML" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+     <img align="center"  title="CSS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<hr>
+
+<div>
+
+
+
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+
+<hr>
+
+### Explore more of my content:
+
+<div> 
+  <a href="https://www.youtube.com/user/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://discord.gg/yourserver" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:eddy.development1997@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://wa.me/whatsappphonenumber" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+</div>
+
+
+![Animação de cobra](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
