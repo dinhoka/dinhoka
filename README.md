@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1!!+Meu+nome+%C3%A9+Amanda)](https://git.io/typing-svg)
-
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1!!+Meu+nome+%C3%A9+Amanda">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1!!+Meu+nome+%C3%A9+Amanda" alt="Typing SVG" style="width: 435px; height: 50px; color: pink;">
+  </a>
+</div>
 
 
 <div align="center">
