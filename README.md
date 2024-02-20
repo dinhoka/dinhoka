@@ -45,7 +45,8 @@
 
 
 ### Visitor count
-<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+![Contador de Visualizações](https://profile-counter.glitch.me/dinhoka/count.svg)
+
 
 <hr>
 
