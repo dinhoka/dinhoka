@@ -1,11 +1,4 @@
-<div align="center">
-  <h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Tudo bem?!+👋;Sou+Amanda Amaral...;">
-  </a>
-</h2>
-</div>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1!!+Meu+nome+%C3%A9+Amanda)](https://git.io/typing-svg)
 
 
 
