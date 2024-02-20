@@ -1,15 +1,11 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=D72EF7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1!!+;Meu+nome+%C3%A9+Amanda;Vamos+construir+algo+incr%C3%ADvel+juntos!" alt="Typing SVG" /></a>
+
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1!!+Meu+nome+%C3%A9+Amanda">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1!!+Meu+nome+%C3%A9+Amanda" alt="Typing SVG" style="width: 435px; height: 50px; color: pink;">
+  <a href="https://github.com/formandodev">
+    <img height="280em" src="https://github-readme-stats.vercel.app/api?username=dinhoka&show_icons=true&theme=radical"/>
   </a>
 </div>
 
-
-<div align="center">
-  <div align="center">
-  <a href="https://github.com/formandodev">
-    <img height="280em" src="https://github-readme-stats.vercel.app/api?username=dinhoka&show_icons=true&theme=radical"/>
-    </div>
 
   <div align="center">
     <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhoka&layout=donut&theme=radical"/>
@@ -23,15 +19,13 @@
         
 <br>
     
-
-
-<div style="display: inline_block"><br>
-     <img align="center"  title="SQL"  height="50"  src="imgs/iconeSQL.jpg">
-     <img align="center"  title="Java" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-     <img align="center"  title="TypeScript" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-     <img align="center"  title="JavaScript" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img align="center"  title="HTML" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-     <img align="center"  title="CSS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div align="center">
+  <img align="center" title="SQL" height="50" src="imgs/iconeSQL.jpg">
+  <img align="center" title="Java" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" title="TypeScript" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" title="JavaScript" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" title="HTML" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="CSS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 <hr>
