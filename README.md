@@ -63,6 +63,9 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
 </div>
+<a href="ethereum:0x1234567890abcdef1234567890abcdef12345678?value=1&gas=21000">
+  <img src="https://www.ethereum.org/images/logos/ETHEREUM-ICON_Black_small.png" alt="Ethereum" height="50">
+</a>
 
 
 ![Animação de cobra](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
