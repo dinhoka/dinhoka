@@ -1,5 +1,6 @@
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=D72EF7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1!!+;Meu+nome+%C3%A9+Amanda;Vamos+construir+algo+incr%C3%ADvel+juntos!" alt="Typing SVG" /></a>
-
+</div>
 <div align="center">
   <a href="https://github.com/formandodev">
     <img height="280em" src="https://github-readme-stats.vercel.app/api?username=dinhoka&show_icons=true&theme=radical"/>
@@ -66,6 +67,8 @@
 <a href="ethereum:0x1234567890abcdef1234567890abcdef12345678?value=1&gas=21000">
   <img src="https://www.ethereum.org/images/logos/ETHEREUM-ICON_Black_small.png" alt="Ethereum" height="50">
 </a>
-
+<a href="https://coin-farm.com/?en=dinhoka" target="_blank">
+<img src="https://coin-farm.com/images/promo/en/ 728x90 .gif"
+alt="Lucro a cada 10 minutos!"></a>
 
 ![Animação de cobra](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
