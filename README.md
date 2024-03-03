@@ -76,23 +76,5 @@ alt="Lucro a cada 10 minutos!"></a>
 ![Animação de cobra](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
 
-document.addEventListener('DOMContentLoaded', function() {
-    const donateButton = document.createElement('button');
-    donateButton.textContent = 'Doar Bitcoins';
-    donateButton.onclick = function() {
-        window.location.href = 'bitcoin:bc1qkv4f7uavzfp345vu6dtxa83fr0nwrvw9rrcmgwvl5y2na9g7c8ds9a2qvz';
-    };
-    
-    const img = document.createElement('img');
-    img.src = 'https://www.bitcoin.com/images/wallets/bitcoin-wallet/bitcoin-wallet-app.png';
-    img.style.width = '200px';
-    img.style.height = '200px';
 
-    const container = document.createElement('div');
-    container.appendChild(img);
-    container.appendChild(donateButton);
-
-    const profileSection = document.querySelector('.js-profile');
-    profileSection.appendChild(container);
-});
 
