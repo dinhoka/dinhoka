@@ -72,3 +72,7 @@
 alt="Lucro a cada 10 minutos!"></a>
 
 ![Animação de cobra](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
+
+![Carteira Bitcoin](https://www.bitcoin.com/images/wallets/bitcoin-wallet/bitcoin-wallet-app.png)
+
